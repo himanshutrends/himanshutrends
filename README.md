@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![himxcode's GitHub | Stats](https://stats.quine.sh/himxcode/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=himxcode)
+
+[![himxcode's GitHub | Languages](https://stats.quine.sh/himxcode/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=himxcode)
